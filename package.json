@@ -1,5 +1,5 @@
 {
-  "name": "request",
+  "name": "@madkudu/request",
   "description": "Simplified HTTP request client.",
   "keywords": [
     "http",
